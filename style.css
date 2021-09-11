@@ -1,0 +1,27 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    font-weight: 400;
+    font-family: Arial;
+}
+
+h1 {
+    padding: 25px 0 0;
+    font-weight: 500;
+}
+
+h2 {
+    padding: 20px 0;
+}
+
+h3 {
+    display: inline;
+    padding: 0 10px;
+    cursor: pointer;
+}
