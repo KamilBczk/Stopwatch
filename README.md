@@ -1,4 +1,4 @@
-# Stopwatch
+# Stopwatch ⏳
 
 Stopwatch project (HTML CSS JS)
 
@@ -18,12 +18,12 @@ Open in your browser
 
 ## Languages
 
-HTML, CSS & pure JS.
+HTML, CSS & JS.
 
 ## Preview
 
-<img src="" width="500px" alt="img">
+<img src="https://github.com/KamilBczk/Stopwatch/blob/main/img/screen.png" width="500px" alt="img">
 
 ## License
 
-@KamilBczk > [Todo-List](https://github.com/KamilBczk)
+@KamilBczk > [Stopwatch](https://github.com/KamilBczk)
